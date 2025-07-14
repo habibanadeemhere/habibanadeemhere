@@ -18,16 +18,17 @@ Here are some ideas to get you started:
 ![github-header-image](https://github.com/user-attachments/assets/cf31f0d5-f26d-4356-b3ef-e755a625698f)
 <h1 align="center">Hi 👋, I'm Habiba Nadeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habibanadeemhere&label=Profile%20views&color=0e75b6&style=flat" alt="habibanadeemhere" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibanadeemhere&label=Profile%20views&color=0e75b6&style=flat" alt="habibanadeemhere" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibanadeemhere" alt="habibanadeemhere" /></a> </p>
 
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=habibanadeemhere&label=Profile%20views&color=0e75b6&style=flat" alt="habibanadeemhere" /> </p>
 
 
 - 🌱 I’m currently learning **JavaScript**
