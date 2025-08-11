@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibanadeemhere&show_icons=true&locale=en&layout=compact" alt="habibanadeemhere" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&locale=en" alt="habibanadeemhere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibanadeemhere&" alt="habibanadeemhere" /></p>
@@ -59,3 +61,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
+![Galaxy Brain](https://img.shields.io/badge/galaxy-brain-9cf?style=for-the-badge&logo=starship&logoColor=white)
+
+
+
+
+
