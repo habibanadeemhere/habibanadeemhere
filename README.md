@@ -104,3 +104,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f7971e,50:ffd200,100:21d4fd"/>
 </p>
 
+ <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>  
