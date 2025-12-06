@@ -37,7 +37,7 @@
   </samp>
 </p>
 
----
+
 
 <!-- Tech Stack Section -->
 <h2 align="center" style="color:#21d4fd;">⚡ Tech Stack & Tools</h2>
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffd200"/>
 </p>
 
----
+
 
 <!-- GitHub Stats -->
 <h2 align="center" style="color:#f7971e;">📊 GitHub Stats & Activity</h2>
