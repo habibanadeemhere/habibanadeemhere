@@ -44,17 +44,10 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <!-- Local-cached SVGs (guaranteed to load) -->
-  <img src="./assets/github-stats.svg" width="430" alt="GitHub stats" />
-  <img src="./assets/streak-stats.svg" width="380" alt="GitHub streak stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&theme=react" width="430" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habibanadeemhere&theme=react" width="380" alt="GitHub streak stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibanadeemhere&layout=compact&theme=react" width="380" alt="Most used languages" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibanadeemhere&bg_color=ffffff&color=6C5CE7&line=00A8FF&point=00B894&area=true&custom_title=Habiba%27s%20GitHub%20Activity%20Graph" width="830" alt="Habiba's GitHub activity graph"/>
-</p>
-
-<p align="center">
-  <img src="./assets/top-langs.svg" width="380" alt="Most used languages" />
 </p>
 
 ## 🚀 Featured Project
