@@ -32,12 +32,16 @@
 
 ## ⚡ Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-6C5CE7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/HTML5-6C5CE7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-00A8FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-00B894?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ES6"/>
   <img src="https://img.shields.io/badge/Figma-6C5CE7?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Bootstrap-00A8FF?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=6C5CE7" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Database-FF6B6B?style=for-the-badge&logo=mysql&logoColor=white" alt="Database"/>
+  <img src="https://img.shields.io/badge/ThemeForest-28A745?style=for-the-badge&logo=envato&logoColor=white" alt="ThemeForest"/>
 </p>
 
 ---
