@@ -44,6 +44,13 @@
   <img src="https://img.shields.io/badge/ThemeForest-28A745?style=for-the-badge&logo=envato&logoColor=white" alt="ThemeForest"/>
 </p>
 
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=habibanadeemhere&theme=radical&row=1&column=6&no-frame=true&trophies=SHARK,SHARK" alt="GitHub Achievements"/>
+</p>
+
+
 ---
 
 ## 📊 GitHub Stats & Activity
