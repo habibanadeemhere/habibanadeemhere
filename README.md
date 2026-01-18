@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Database-FF6B6B?style=for-the-badge&logo=mysql&logoColor=white" alt="Database"/>
   <img src="https://img.shields.io/badge/ThemeForest-28A745?style=for-the-badge&logo=envato&logoColor=white" alt="ThemeForest"/>
+  <img src="https://img.shields.io/badge/TypeScript-6C5CE7?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
 </p>
 
 
