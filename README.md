@@ -4,10 +4,9 @@
 <!--                   MAIN BANNER                      -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1200,100:2a1f00&height=280&section=header&text=Habiba%20Nadeem&fontSize=70&fontAlign=50&fontAlignY=42&fontColor=FFD700&desc=✦%20Frontend%20Developer%20%7C%20Figma%20→%20Code%20%7C%20UI%20Designer%20✦&descSize=18&descAlign=50&descAlignY=62&animation=twinkling&stroke=FFD700&strokeWidth=2" />
+<img src="habiba_banner (1).png" width="100%" />
 
-<!-- PROFILE PHOTO WITH GOLD RING -->
-<img src="https://avatars.githubusercontent.com/u/191740318?v=4" width="140" style="border-radius:50%; border: 4px solid #FFD700; margin-top: -10px;" />
+
 
 <br/><br/>
 
