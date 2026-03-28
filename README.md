@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- SOCIAL BADGES -->
-[![Email](https://img.shields.io/badge/Gmail-habibanadeemhere%40gmail.com-FFD700?style=flat-square&logo=gmail&logoColor=black&labelColor=1a1200)](mailto:habibanadeemhere@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-habibanadeemhere%40gmail.com-FFD700?style=flat-square&logo=gmail&logoColor=black&labelColor=1a1200)](mailto:habibanadeem075@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Habiba%20Nadeem-FFD700?style=flat-square&logo=linkedin&logoColor=black&labelColor=1a1200)](https://www.linkedin.com/in/habibanadeem/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40habibanadeem-FFD700?style=flat-square&logo=twitter&logoColor=black&labelColor=1a1200)](https://twitter.com/habibanadeem)
 [![GitHub](https://img.shields.io/badge/GitHub-habibanadeemhere-FFD700?style=flat-square&logo=github&logoColor=black&labelColor=1a1200)](https://github.com/habibanadeemhere)
