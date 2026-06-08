@@ -1,72 +1,92 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                   MAIN BANNER                     -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Habiba%20Nadeem&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descSize=18"/>
 
-<img src="habiba_banner (1).png" width="100%" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;Building+Scalable+Web+Apps+%F0%9F%8C%90;Always+Learning+%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
 
+<br/>
 
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio2-ebon-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habiba-nadeem-4b63412b9)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/habibanadeemhere)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-<br/><br/>
+<br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile+%E2%9C%A6;I+turn+Figma+designs+into+React+Apps+%F0%9F%9A%80;Frontend+Developer+%7C+UI+Designer;Pixel-Perfect+%7C+Responsive+%7C+Accessible;Let%27s+build+something+legendary+%F0%9F%91%91" />
-
-<br/><br/>
-
-<!-- SOCIAL BADGES -->
-[![Email](https://img.shields.io/badge/Gmail-habibanadeem075%40gmail.com-FFD700?style=flat-square&logo=gmail&logoColor=black&labelColor=1a1200)](mailto:habibanadeem075@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Habiba%20Nadeem-FFD700?style=flat-square&logo=linkedin&logoColor=black&labelColor=1a1200)](https://www.linkedin.com/in/habibanadeem/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40habibanadeem-FFD700?style=flat-square&logo=twitter&logoColor=black&labelColor=1a1200)](https://twitter.com/habibanadeem)
-[![GitHub](https://img.shields.io/badge/GitHub-habibanadeemhere-FFD700?style=flat-square&logo=github&logoColor=black&labelColor=1a1200)](https://github.com/habibanadeemhere)
-[![Profile Views](https://komarev.com/ghpvc/?username=habibanadeemhere&style=flat-square&color=FFD700&label=Profile+Views&abbreviated=true)](https://github.com/habibanadeemhere)
+![Profile Views](https://komarev.com/ghpvc/?username=habibanadeemhere&label=Profile%20Views&color=6C63FF&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/habibanadeemhere?label=Followers&style=social)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+## 👩‍💻 About Me
 
-## 👑 About Me
-
-```yaml
-name:         Habiba Nadeem
-location:     Pakistan 🇵🇰
-title:        Frontend Developer & UI Designer
-skills:       HTML · CSS · JS · React · TypeScript
-tools:        Figma · Supabase · Node.js · Git
-superpower:   Figma designs → Pixel-perfect React apps
-learning:     Advanced React · TypeScript · Supabase
-available:    ✅ Open to Collabs & Freelance
-motto:        "Design is how it works." – Steve Jobs
+```javascript
+const habiba = {
+  name: "Habiba Nadeem",
+  title: "Full Stack Developer | MERN Stack Developer",
+  location: "Pakistan 🇵🇰",
+  focus: ["Full Stack Web Development", "MERN Stack Applications", "API Development"],
+  passion: "Building modern, responsive & scalable web applications",
+  currentlyLearning: ["Advanced React Patterns", "TypeScript", "Cloud Deployment"],
+  goal: "To build impactful web applications and contribute to innovative projects",
+  funFact: "I turn coffee ☕ into clean code 💻"
+};
 ```
 
-<br clear="right"/>
+I am a **passionate Full Stack Developer** specializing in the **MERN Stack**. I enjoy building modern, responsive, and scalable web applications. I am constantly learning new technologies and improving my development skills through real-world projects.
+
+- 🔭 Currently working on **MERN Stack Applications**
+- 🌱 Always learning and exploring new technologies
+- 💡 Passionate about creating **user-friendly web applications**
+- 🎯 Goal: Build impactful products and grow as a software developer
+- ⚡ I love clean code, great UX, and strong architecture
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ES6](https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-**🎨 Frontend Magic**
-
-![HTML5](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1200?style=for-the-badge&logo=typescript&logoColor=FFD700)
-![React](https://img.shields.io/badge/React-1a1200?style=for-the-badge&logo=react&logoColor=FFD700)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FFD700?style=for-the-badge&logo=bootstrap&logoColor=black)
-
-**🛠️ Tools & Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1200?style=for-the-badge&logo=node.js&logoColor=FFD700)
-![Supabase](https://img.shields.io/badge/Supabase-FFD700?style=for-the-badge&logo=supabase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-1a1200?style=for-the-badge&logo=mysql&logoColor=FFD700)
-![Figma](https://img.shields.io/badge/Figma-FFD700?style=for-the-badge&logo=figma&logoColor=black)
-![Git](https://img.shields.io/badge/Git-1a1200?style=for-the-badge&logo=git&logoColor=FFD700)
-![VS Code](https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+| Project | Description | Tech Stack | Live |
+|---------|-------------|------------|------|
+| 🗂️ **MERN Task Manager** | A full-featured task management app with authentication, CRUD operations, and real-time updates | React, Node.js, Express, MongoDB | [View →](https://github.com/habibanadeemhere) |
+| 🌐 **Pulse Pakistan** | A dynamic web project built with modern web technologies | MERN Stack | [View →](https://github.com/habibanadeemhere) |
+| 💼 **My Portfolio** | A personal portfolio website showcasing projects and skills | React, Tailwind CSS, Vercel | [Live →](https://my-portfolio2-ebon-seven.vercel.app/) |
 
 </div>
 
@@ -76,16 +96,14 @@ motto:        "Design is how it works." – Steve Jobs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=e5c000&ring_color=FFD700" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=habibanadeemhere&theme=dark&hide_border=true&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=e5c000&dates=888888&currStreakNum=FFD700&sideNums=e5c000" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibanadeemhere&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibanadeemhere&layout=donut&theme=gruvbox&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=e5c000" width="38%" />
+<div align="center">
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=habibanadeemhere&theme=github-compact&bg_color=0d0d0d&color=FFD700&line=b8860b&point=FFD700&hide_border=true" width="95%" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habibanadeemhere&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
@@ -95,67 +113,60 @@ motto:        "Design is how it works." – Steve Jobs
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=habibanadeemhere&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=4" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=habibanadeemhere&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
 ---
 
-## 👑 Featured Projects
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Electronics Website](https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=Electronics-Website&theme=gruvbox&hide_border=true&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=e5c000)](https://github.com/habibanadeemhere)
-
-</div>
-
-| ✦ Project | 📋 Description | 🛠️ Stack | 🏅 Grade |
-|:---:|:---:|:---:|:---:|
-| 🛒 Electronics Website | Fully responsive e-commerce UI | HTML, CSS, JS | **A** |
-| 🎨 Portfolio | Personal creative portfolio | HTML, CSS, Figma | **A+** |
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=habibanadeemhere&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Current Focus
+
+```
+🔵 Full Stack Web Development     ████████████████████  100%
+🟣 MERN Stack Applications        ██████████████████░░   90%
+🟢 API Development & Integration  ████████████████░░░░   80%
+🟡 Real-World Project Building    ██████████████████░░   90%
+🔴 Exploring New Technologies     ████████████░░░░░░░░   60%
+```
+
+---
+
+## 🤝 Let's Connect!
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habibanadeemhere/habibanadeemhere/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habibanadeemhere/habibanadeemhere/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/habibanadeemhere/habibanadeemhere/output/github-contribution-grid-snake.svg" />
-</picture>
+I'm always open to **collaborations**, **freelance projects**, and **exciting opportunities**. Feel free to reach out!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://my-portfolio2-ebon-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/habiba-nadeem-4b63412b9)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow-100000?style=for-the-badge)](https://github.com/habibanadeemhere)
 
 </div>
 
 ---
 
-## 📬 Let's Connect!
-
 <div align="center">
 
-> **✦ Always open to exciting projects, collabs & opportunities ✦**
->
-> Whether you have a project idea or just want to say hi — my inbox is open! 💌
+### 💬 Quote I Live By
 
-<br/>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-FFD700?style=for-the-badge&logoColor=black)](mailto:habibanadeemhere@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-1a1200?style=for-the-badge&logoColor=FFD700)](https://www.linkedin.com/in/habibanadeem/)
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-FFD700?style=for-the-badge&logoColor=black)](https://twitter.com/habibanadeem)
+---
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1f00,50:1a1200,100:0a0a0a&height=120&section=footer&text=✦%20Thanks%20for%20visiting!%20Drop%20a%20⭐%20if%20you%20like%20my%20work%20✦&fontSize=14&fontColor=FFD700&fontAlign=50&fontAlignY=65" />
+**⭐ If you like my work, consider giving my repos a star — it means a lot! ⭐**
+
+*Made with ❤️ by Habiba Nadeem*
 
 </div>
