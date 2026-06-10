@@ -93,13 +93,22 @@ I am a **passionate Full Stack Developer** specializing in the **MERN Stack**. I
 ---
 
 ## 📊 GitHub Stats
+<!-- GitHub Stats -->
+<h2 align="center">📊 Github Stats & Activity</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&theme=omni" width="430"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibanadeemhere&theme=omni" width="380"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibanadeemhere&theme=omni"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=habibanadeemhere&theme=omni&row=1&column=7"/>
+</p>
 
-<div align="center">
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibanadeemhere&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-</div>
 
 <div align="center">
 
