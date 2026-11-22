@@ -1,157 +1,186 @@
-<!--
-  HABIBA NADEEM
-  Ultra cinematic profile README
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=310&color=0:020617,28:09090b,55:312e81,78:831843,100:020617&text=HABIBA%20NADEEM&fontSize=65&fontColor=FFFFFF&fontAlignY=43&desc=FULL%20STACK%20MERN%20DEVELOPER%20%E2%80%A2%20CREATIVE%20ENGINEER&descSize=17&descAlignY=64&animation=twinkling&stroke=818CF8&strokeWidth=1.4" alt="Habiba Nadeem" />
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2200&pause=700&color=C084FC&center=true&vCenter=true&width=860&lines=DESIGN+WITH+PURPOSE.;CODE+WITH+PASSION.;BUILD+WITH+IMPACT.;MERN+STACK+DEVELOPER.;KARACHI%2C+PAKISTAN+%F0%9F%87%B5%F0%9F%87%B0" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=330&text=HABIBA%20NADEEM&fontSize=68&fontAlignY=41&desc=FULL%20STACK%20DEVELOPER%20//%20MERN%20ENGINEER&descAlignY=62&descSize=18&animation=twinkling&color=0:020617,28:111827,55:1e1b4b,78:581c87,100:020617&fontColor=f8fafc&stroke=a855f7&strokeWidth=1.4" width="100%" />
 
-<br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2200&pause=650&color=A78BFA&center=true&vCenter=true&width=900&lines=ARCHITECTING+DIGITAL+EXPERIENCES;CREATING+WITH+THE+MERN+STACK;TURNING+IDEAS+INTO+REAL+PRODUCTS;LEARN.+BUILD.+SHIP.+EVOLVE.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=habibanadeemhere&label=PROFILE+SIGNALS&style=for-the-badge&color=8b5cf6&labelColor=020617" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-020617?style=for-the-badge&logo=statuspal&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/FOCUS-MERN-020617?style=for-the-badge&logo=mongodb&logoColor=F472B6" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=habibanadeemhere&label=IDENTITY+SCANS&style=for-the-badge&color=7c3aed&labelColor=020617" />
+<a href="https://github.com/habibanadeemhere"><img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=c4b5fd" /></a>
+<a href="https://linkedin.com/in/habiba-nadeem-4b63412b9"><img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
+<a href="mailto:habibanadeem075@gmail.com"><img src="https://img.shields.io/badge/INITIALIZE%20CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=f472b6" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:818CF8,35:C084FC,70:F472B6,100:22D3EE" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:a855f7,35:6366f1,70:d946ef,100:22d3ee" />
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
-  Welcome to My Universe
-</h2>
+<!-- ═══════════════════════ IDENTITY ═══════════════════════ -->
+
+<h2 align="center">◈  IDENTITY MATRIX  ◈</h2>
 
 <table>
 <tr>
-<td width="61%" valign="middle">
+<td width="34%" align="center">
 
-### 🚀 **Developer. Creator. Problem Solver.**
-
-I’m **Habiba Nadeem**, a Full-Stack MERN Developer and SMIT Batch 16 student from **Karachi, Pakistan**.
-
-I transform ideas into polished interfaces, powerful backend systems, and complete digital experiences.
-
-```text
-LEARN  ━━━>  BUILD  ━━━>  BREAK  ━━━>  IMPROVE  ━━━>  SHIP
-```
-
-**What I work with**
-
-- Modern React interfaces
-- Node.js and Express APIs
-- MongoDB databases
-- Authentication and dashboards
-- Responsive, accessible UI
-- Python and data analysis
-
-</td>
-<td width="39%" align="center" valign="middle">
-
-<img width="300" src="habiba.png" alt="Habiba Nadeem" />
+<img width="280" src="habiba.png" alt="Habiba Nadeem" />
 
 <br/>
 
-<a href="https://github.com/habibanadeemhere">
-  <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-020617?style=for-the-badge&logo=github&logoColor=C4B5FD" />
-</a>
+<img src="https://img.shields.io/badge/SYSTEM-SIGNAL%20ONLINE-020617?style=for-the-badge&logo=statuspal&logoColor=22c55e" />
+
+</td>
+<td width="66%" valign="middle">
+
+```javascript
+/*
+ *  █▀▀ █▀█ █▀▄ █▀▀
+ *  █▄▄ █▄█ █▄▀ █▄▄
+ *
+ *  SUBJECT:  Habiba Nadeem
+ *  CLASS:    Full-Stack MERN Developer
+ *  BASE:     Karachi, Pakistan 🇵🇰
+ *  TRAINING: SMIT — Batch 16
+ *
+ *  mission.execute({
+ *    learn: "Every day",
+ *    create: "Digital experiences",
+ *    improve: "Without limits",
+ *    ship: "Something meaningful"
+ *  });
+ */
+```
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<h2 align="center">⚡ TECHNOLOGY ARSENAL</h2>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,tailwind,html,css,python,supabase,git,github,postman,vscode,figma&perline=8&theme=dark" alt="Technology stack" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MONGO_DB-020617?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/EXPRESS-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/REACT-020617?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/NODE_JS-020617?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+> **“I build more than screens. I build experiences that people remember.”**
 
 </div>
 
 <br/>
 
-<h2 align="center">🚀 FEATURED MISSIONS</h2>
+<!-- ═══════════════════════ STATUS ═══════════════════════ -->
+
+<h2 align="center">◈  LIVE STATUS  ◈</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 01
+**LOCATION**
+
+Karachi, PK
+
+</td>
+<td align="center">
+
+### 02
+**TRAINING**
+
+SMIT · Batch 16
+
+</td>
+<td align="center">
+
+### 03
+**PRIMARY STACK**
+
+MERN
+
+</td>
+<td align="center">
+
+### 04
+**CURRENT MODE**
+
+`BUILDING`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
+
+<h2 align="center">◈  TECHNOLOGY ARSENAL  ◈</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,tailwind,html,css,python,supabase,git,github,postman,vscode,figma&perline=8&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ MISSIONS ═══════════════════════ -->
+
+<h2 align="center">◈  SELECTED MISSIONS  ◈</h2>
 
 <div align="center">
 
 <a href="https://github.com/habibanadeemhere/supportflow">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=supportflow&hide_border=true&bg_color=020617&title_color=C084FC&text_color=C9D1D9&icon_color=22D3EE&border_color=7C3AED" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=supportflow&hide_border=true&bg_color=020617&title_color=c084fc&text_color=c9d1d9&icon_color=22d3ee&border_color=7c3aed" />
 </a>
 
 <a href="https://github.com/habibanadeemhere/3D-Portfolio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=3D-Portfolio&hide_border=true&bg_color=020617&title_color=F472B6&text_color=C9D1D9&icon_color=C084FC&border_color=DB2777" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=3D-Portfolio&hide_border=true&bg_color=020617&title_color=f472b6&text_color=c9d1d9&icon_color=c084fc&border_color=db2777" />
 </a>
 
 <a href="https://github.com/habibanadeemhere/SMIT-Connect-Portal">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=SMIT-Connect-Portal&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=C9D1D9&icon_color=F472B6&border_color=0284C7" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=SMIT-Connect-Portal&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=c9d1d9&icon_color=f472b6&border_color=0284c7" />
 </a>
 
 <a href="https://github.com/habibanadeemhere/Sales-Data-Analysis">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=Sales-Data-Analysis&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9&icon_color=C084FC&border_color=0891B2" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=Sales-Data-Analysis&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=c9d1d9&icon_color=c084fc&border_color=0891b2" />
 </a>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="25%" align="center">
+<h3 align="center">MISSION FILES</h3>
 
-### 🛟<br/>SupportFlow
-
-**MERN Support Platform**
-
-</td>
-<td width="25%" align="center">
-
-### 🌌<br/>3D Portfolio
-
-**Immersive Web Experience**
-
-</td>
-<td width="25%" align="center">
-
-### 🎓<br/>SMIT Portal
-
-**Student Workflow System**
-
-</td>
-<td width="25%" align="center">
-
-### 📊<br/>Sales Analysis
-
-**Python Data Intelligence**
-
-</td>
-</tr>
-</table>
+| CODE | PROJECT | OBJECTIVE |
+|:--:|:--|:--|
+| `SFL-01` | **SupportFlow** | Complete customer support workflow |
+| `P3D-02` | **3D Portfolio** | Immersive developer identity |
+| `SMT-03` | **SMIT Connect** | Student and campus portal |
+| `DAT-04` | **Sales Analysis** | Data-led visual intelligence |
 
 <br/>
 
-<h2 align="center">📡 LIVE GITHUB TELEMETRY</h2>
+<!-- ═══════════════════════ TELEMETRY ═══════════════════════ -->
+
+<h2 align="center">◈  LIVE TELEMETRY  ◈</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=C084FC&text_color=C9D1D9&icon_color=22D3EE&ring_color=F472B6&border_color=7C3AED" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=c084fc&text_color=c9d1d9&icon_color=22d3ee&ring_color=f472b6&border_color=7c3aed" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibanadeemhere&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=F472B6&text_color=C9D1D9&border_color=DB2777" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibanadeemhere&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=f472b6&text_color=c9d1d9&border_color=db2777" />
 
 <br/><br/>
 
@@ -159,47 +188,62 @@ LEARN  ━━━>  BUILD  ━━━>  BREAK  ━━━>  IMPROVE  ━━━>  SH
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibanadeemhere&bg_color=020617&color=C9D1D9&line=C084FC&point=F472B6&area=true&area_color=581C87&hide_border=true&custom_title=CONTRIBUTION+SIGNAL+MAP" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibanadeemhere&bg_color=020617&color=c9d1d9&line=c084fc&point=f472b6&area=true&area_color=581c87&hide_border=true&custom_title=CONTRIBUTION+SIGNAL+MAP" />
 
 </div>
 
 <br/>
 
-<h2 align="center">🧠 CURRENT FOCUS</h2>
+<!-- ═══════════════════════ CURRENT DIRECTIVE ═══════════════════════ -->
+
+<h2 align="center">◈  CURRENT DIRECTIVE  ◈</h2>
 
 <div align="center">
 
-| LEARNING | BUILDING | EXPLORING |
-|:--:|:--:|:--:|
-| React architecture | Full-stack MERN products | Modern UI and UX |
-| TypeScript | REST APIs | Python and data |
-| Authentication | Scalable dashboards | Clean code |
-| Deployment | Real-world solutions | Better experiences |
+```mermaid
+mindmap
+  root((HABIBA))
+    Learning
+      React Architecture
+      TypeScript
+      Authentication
+      Clean APIs
+    Building
+      MERN Applications
+      Modern Interfaces
+      Dashboards
+    Growing
+      Data Analysis
+      Deployment
+      Scalable Products
+```
 
 </div>
 
 <br/>
 
-<h2 align="center">🌐 LET'S CREATE SOMETHING AMAZING</h2>
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+<h2 align="center">◈  OPEN COMMUNICATION CHANNEL  ◈</h2>
 
 <div align="center">
 
 <a href="https://github.com/habibanadeemhere">
-  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=c4b5fd" />
 </a>
 
 <a href="https://linkedin.com/in/habiba-nadeem-4b63412b9">
-  <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
 </a>
 
 <a href="mailto:habibanadeem075@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=F472B6" />
+<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=f472b6" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:020617,28:09090b,55:312e81,78:831843,100:020617&animation=twinkling&stroke=C084FC&strokeWidth=1.4" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:020617,28:111827,55:1e1b4b,78:581c87,100:020617&stroke=a855f7&strokeWidth=1.4" />
 
-**`DREAM. CODE. BUILD. EVOLVE.`**
+**`[ DREAM ] ━━━ [ CODE ] ━━━ [ BUILD ] ━━━ [ EVOLVE ]`**
 
 </div>
