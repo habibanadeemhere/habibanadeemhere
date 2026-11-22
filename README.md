@@ -1,241 +1,234 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:080B20,50:11152F,100:080B20&text=HABIBA%20NADEEM&fontSize=68&fontColor=F7F7F2&fontAlignY=35&desc=%5B%20FULL-STACK%20DEVELOPER%20%E2%80%A2%20MERN%20STACK%20%5D&descSize=21&descAlignY=63&animation=fadeIn&stroke=C8FF48&strokeWidth=1" alt="Habiba Nadeem — Full Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:090611,48:1B0A25,100:090611&text=HABIBA%20NADEEM&fontSize=70&fontColor=FFF7FC&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20MERN%20STACK&descSize=18&descAlignY=64&animation=fadeIn&stroke=FF4FD8&strokeWidth=1" alt="Habiba Nadeem — Full Stack Developer" />
 
-</div>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   GITASCII                                                                   ║
-║   [ OPEN-SOURCE  •  PROFILE ENGINE  •  PAKISTAN  ]                          ║
-║                                                                              ║
-║   Welcome to the terminal where ideas become                              ║
-║   interactive experiences.                                                   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<a href="https://3d-portfolio-three-beta-76.vercel.app"><img src="https://img.shields.io/badge/▣_PORTFOLIO-C8FF48?style=for-the-badge&labelColor=080B20&color=C8FF48&logo=googlechrome&logoColor=C8FF48" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/habiba-nadeem-4b63412b9"><img src="https://img.shields.io/badge/◉_LINKEDIN-11152F?style=for-the-badge&labelColor=080B20&logo=linkedin&logoColor=F7F7F2" alt="LinkedIn" /></a>
-<a href="https://github.com/habibanadeemhere"><img src="https://img.shields.io/badge/⌁_GITHUB-11152F?style=for-the-badge&labelColor=080B20&logo=github&logoColor=F7F7F2" alt="GitHub" /></a>
-
-</div>
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-01  // THE DEVELOPER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-```text
-> whoami
-Habiba Nadeem
-
-> status
-Full Stack Developer  |  MERN Stack Developer
-
-> location
-Pakistan 🇵🇰
-
-> mission
-Build modern, responsive and scalable web applications.
-Turn complex requirements into clean digital experiences.
-```
-
-</td>
-<td width="42%" valign="top">
-
-```text
-┌──────────────────────────────────┐
-│  CURRENT PROCESS                 │
-├──────────────────────────────────┤
-│  ◉  React applications           │
-│  ◉  Advanced React patterns      │
-│  ◉  TypeScript                   │
-│  ◉  REST API development         │
-│  ◉  Cloud deployment             │
-├──────────────────────────────────┤
-│  FUEL: coffee ☕  →  code {}     │
-└──────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-02  // CAPABILITIES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### `LANGUAGES + INTERFACE`
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,redux,bootstrap,tailwind&theme=dark" alt="HTML, CSS, JavaScript, Python, React, Redux, Bootstrap and Tailwind" />
-</p>
-
-### `APPLICATION + DATA`
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,socketio,postman&theme=dark" alt="Node.js, Express, MongoDB, Firebase, Supabase, Socket.IO and Postman" />
-</p>
-
-### `SHIP + DEPLOY`
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" alt="Git, GitHub, VS Code, Vercel and Netlify" />
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/RENDER-080B20?style=for-the-badge&logo=render&logoColor=C8FF48" alt="Render" />
-<img src="https://img.shields.io/badge/HOSTINGER-080B20?style=for-the-badge&logo=hostinger&logoColor=C8FF48" alt="Hostinger" />
-<img src="https://img.shields.io/badge/GODADDY-080B20?style=for-the-badge&logo=godaddy&logoColor=C8FF48" alt="GoDaddy" />
-<img src="https://img.shields.io/badge/CLOUDINARY-080B20?style=for-the-badge&logo=cloudinary&logoColor=C8FF48" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/REST_APIs-080B20?style=for-the-badge&logo=postman&logoColor=C8FF48" alt="REST APIs" />
-<img src="https://img.shieldsields.io/badge/ES6%2B-080B20?style=for-the-badge&logo=javascript&logoColor=C8FF48" alt="ES6 Plus" />
-
-</div>
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-03  // SELECTED BUILDS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-```text
-┌─ 001 ─────────────────────┐
-│ MERN TASK MANAGER         │
-├───────────────────────────┤
-│ AUTH  [████████░░]        │
-│ CRUD  [██████████]        │
-│ LIVE  [██████░░░░]        │
-└───────────────────────────┘
-```
-
-Task management with authentication, CRUD operations and real-time updates.
-
-**STACK**  React · Node.js · Express · MongoDB
-
-[Repository →](https://github.com/habibanadeemhere)
-
-</td>
-<td width="33%" valign="top">
-
-```text
-┌─ 002 ─────────────────────┐
-│ PULSE PAKISTAN            │
-├───────────────────────────┤
-│ UI    [████████░░]        │
-│ API   [███████░░░]        │
-│ STACK [██████████]        │
-└───────────────────────────┘
-```
-
-A dynamic web project built with modern web technologies and MERN-stack thinking.
-
-**STACK**  MERN Stack
-
-[Repository →](https://github.com/habibanadeemhere)
-
-</td>
-<td width="33%" valign="top">
-
-```text
-┌─ 003 ─────────────────────┐
-│ 3D / CREATIVE PORTFOLIO   │
-├───────────────────────────┤
-│ MOTION [████████░░]       │
-│ UX     [█████████░]       │
-│ STYLE  [██████████]       │
-└───────────────────────────┘
-```
-
-A portfolio experience for presenting projects, skills and development work.
-
-**STACK**  React · Tailwind · Vercel
-
-[Live site →](https://my-portfolio2-ebon-seven.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://3d-portfolio-three-beta-76.vercel.app"><strong>Enter the 3D portfolio ↗</strong></a>
-
-</div>
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-04  // GITHUB TELEMETRY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&hide_border=true&bg_color=080B20&title_color=C8FF48&text_color=F7F7F2&icon_color=C8FF48&ring_color=C8FF48" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=habibanadeemhere&hide_border=true&background=080B20&ring=C8FF48&fire=F7F7F2&currStreakLabel=C8FF48&sideLabels=F7F7F2&dates=9CA3AF&currStreakNum=C8FF48&sideNums=F7F7F2" alt="Contribution streak" />
+<a href="https://www.linkedin.com/in/habiba-nadeem-4b63412b9"><img src="https://img.shields.io/badge/%E2%9C%A6_LinkedIn-17101F?style=for-the-badge&logo=linkedin&logoColor=FF8AE8&labelColor=17101F" alt="LinkedIn" /></a>
+<a href="https://3d-portfolio-three-beta-76.vercel.app"><img src="https://img.shields.io/badge/%E2%97%86_3D_Portfolio-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FF4FD8" alt="3D Portfolio" /></a>
+<a href="https://github.com/habibanadeemhere"><img src="https://img.shields.io/badge/%E2%97%89_GitHub-17101F?style=for-the-badge&logo=github&logoColor=white&labelColor=17101F" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibanadeemhere&bg_color=080B20&color=F7F7F2&line=C8FF48&point=C8FF48&area=true&hide_border=true" alt="Contribution graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=habibanadeemhere&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=12" alt="GitHub trophies" />
-
-</div>
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-05  // ACTIVE ROUTINES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-```text
-FULL-STACK DEVELOPMENT   [████████████████████]  100%
-MERN APPLICATIONS        [██████████████████░░]   90%
-API DEVELOPMENT          [████████████████░░░░]   80%
-REAL-WORLD PROJECTS      [██████████████████░░]   90%
-EXPLORING NEW TECH       [████████████░░░░░░░░]   60%
-```
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-06  // OPEN CHANNEL
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<div align="center">
-
-**COLLABORATIONS  ·  FREELANCE  ·  EXCITING OPPORTUNITIES**
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&pause=1000&color=FF71DD&center=true&vCenter=true&width=720&lines=DESIGNING+THE+DETAILS.+ENGINEERING+THE+EXPERIENCE.;MERN+STACK+%2F+FULL-STACK+WEB+DEVELOPMENT;IDEAS+IN.+INTERACTIVE+EXPERIENCES+OUT." alt="Animated tagline" />
 
 <br/>
 
-<a href="https://3d-portfolio-three-beta-76.vercel.app"><img src="https://img.shields.io/badge/▣_PORTFOLIO-C8FF48?style=for-the-badge&labelColor=080B20&logo=googlechrome&logoColor=C8FF48" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/habiba-nadeem-4b63412b9"><img src="https://img.shields.io/badge/◉_LINKEDIN-11152F?style=for-the-badge&labelColor=080B20&logo=linkedin&logoColor=F7F7F2" alt="LinkedIn" /></a>
-<a href="https://github.com/habibanadeemhere"><img src="https://img.shields.io/badge/⌁_GITHUB-11152F?style=for-the-badge&labelColor=080B20&logo=github&logoColor=F7F7F2" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=habibanadeemhere&style=for-the-badge&color=9E35B5&label=VISITORS" alt="Profile visitors" />
+<img src="https://img.shields.io/github/followers/habibanadeemhere?style=for-the-badge&color=FF4FD8&labelColor=17101F&logo=github&label=FOLLOWERS" alt="GitHub followers" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+## ✳︎ &nbsp; Hey, I'm Habiba.
+
+### I make the web feel alive.
+
+Pakistan-based **Full Stack Developer** building responsive, user-friendly web experiences with a **MERN-stack focus**. I like connecting the dots between polished interfaces, useful APIs, and reliable application logic—and I'm always learning by building.
+
+`FULL STACK` &nbsp; `MERN` &nbsp; `WEB EXPERIENCES` &nbsp; `ALWAYS LEARNING`
+
+</td>
+<td width="40%" valign="middle">
+
+<div align="center">
+
+```text
+╭────────────────────────────╮
+│  NOW / BUILDING             │
+│                             │
+│  ◉ MERN applications        │
+│  ◉ Responsive interfaces    │
+│  ◉ REST API integrations    │
+│                             │
+│  NEXT / LEARNING            │
+│  React patterns · TypeScript│
+│  Cloud deployment           │
+╰────────────────────────────╯
+```
+
+**Based in Pakistan 🇵🇰**  ·  **Fueled by coffee ☕**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 01 &nbsp; CODE, IN COLOR
+
+**A live snapshot of the languages in my public repositories**
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibanadeemhere&layout=donut-vertical&langs_count=7&hide_border=true&bg_color=0D0612&title_color=FF4FD8&text_color=F6E9FF&icon_color=FF71DD&custom_title=LANGUAGE%20MIX" alt="Chart showing the language breakdown of my public repositories" />
+</a>
+
+<sub>GitHub calculates this from repository code size—not time spent or personal proficiency. The chart updates as repositories change.</sub>
+
+</div>
+
+---
+
+## 02 &nbsp; My creative toolkit
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01 — FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Redux, Bootstrap and Tailwind CSS" />
+
+### `02 — ALSO EXPLORING`
+
+<img src="https://skillicons.dev/icons?i=python,ts&theme=dark" alt="Python and TypeScript" />
+
+</td>
+<td width="50%" valign="top">
+
+### `03 — BACKEND + DATA`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,socketio&theme=dark" alt="Node.js, Express, MongoDB, Firebase, Supabase and Socket.IO" />
+
+### `04 — DEV + DEPLOY`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman&theme=dark" alt="Git, GitHub, VS Code, Vercel, Netlify and Postman" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/RENDER-17101F?style=for-the-badge&logo=render&logoColor=FF71DD" alt="Render" />
+<img src="https://img.shields.io/badge/HOSTINGER-17101F?style=for-the-badge&logo=hostinger&logoColor=FF71DD" alt="Hostinger" />
+<img src="https://img.shields.io/badge/GODADDY-17101F?style=for-the-badge&logo=godaddy&logoColor=FF71DD" alt="GoDaddy" />
+<img src="https://img.shields.io/badge/CLOUDINARY-17101F?style=for-the-badge&logo=cloudinary&logoColor=FF71DD" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/REST_APIs-17101F?style=for-the-badge&logo=postman&logoColor=FF71DD" alt="REST APIs" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 03 &nbsp; SELECTED WORK
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ◈ SupportFlow
+
+A support workflow project split across frontend and backend repositories.
+
+`JAVASCRIPT` · `FULL STACK`
+
+[Frontend ↗](https://github.com/habibanadeemhere/supportflow-frontend)  
+[Backend ↗](https://github.com/habibanadeemhere/supportflow-backend)
+
+</td>
+<td width="33%" valign="top">
+
+### ◈ 3D Portfolio
+
+A creative portfolio project exploring a more immersive way to showcase work.
+
+`JAVASCRIPT` · `3D WEB`
+
+[View project ↗](https://github.com/habibanadeemhere/3D-Portfolio)  
+[Visit portfolio ↗](https://3d-portfolio-three-beta-76.vercel.app)
+
+</td>
+<td width="33%" valign="top">
+
+### ◈ Sales Data Analysis
+
+A data-analysis project in Python, bringing a different lens to my toolkit.
+
+`PYTHON` · `DATA`
+
+[View project ↗](https://github.com/habibanadeemhere/Sales-Data-Analysis)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[More projects on GitHub →](https://github.com/habibanadeemhere?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+## 04 &nbsp; THE GITHUB ARCADE
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&hide_border=true&bg_color=0D0612&title_color=FF4FD8&text_color=F6E9FF&icon_color=FF71DD&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=habibanadeemhere&hide_border=true&background=0D0612&ring=FF4FD8&fire=FF71DD&currStreakLabel=FF4FD8&sideLabels=F6E9FF&dates=BBAFC2&currStreakNum=FF71DD&sideNums=F6E9FF" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-> “First, solve the problem. Then, write the code.” — John Johnson
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibanadeemhere&bg_color=0D0612&color=F6E9FF&line=FF4FD8&point=FF71DD&area=true&hide_border=true" alt="GitHub contribution activity" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&section=footer&color=0:080B20,50:11152F,100:080B20&text=BUILD%20%7C%20BREAK%20%7C%20LEARN%20%7C%20REPEAT&fontSize=22&fontColor=C8FF48&animation=twinkling&stroke=C8FF48&strokeWidth=1" alt="Footer banner" />
+<br/><br/>
 
-**Thanks for stopping by — let's build something meaningful.** ✨
+<img src="https://github-profile-trophy.vercel.app/?username=habibanadeemhere&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+## 05 &nbsp; What I'm reaching for
+
+- Building useful full-stack products
+- Getting sharper with React and TypeScript
+- Exploring cloud deployment and integrations
+- Making each project more thoughtful than the last
+
+</td>
+<td width="45%" valign="middle">
+
+```text
+IDEA       ━━━━━━━━━━  100%
+LEARNING   ━━━━━━━━━━  ALWAYS
+COFFEE     ━━━━━━━━━━  REQUIRED
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## LET'S BUILD SOMETHING GOOD.
+
+Open to **collaborations, freelance projects, and exciting opportunities**.
+
+<a href="https://3d-portfolio-three-beta-76.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio" /></a>
+<a href="https://www.linkedin.com/in/habiba-nadeem-4b63412b9"><img src="https://img.shields.io/badge/LET'S_CONNECT-17101F?style=for-the-badge&logo=linkedin&logoColor=FF71DD" alt="Connect on LinkedIn" /></a>
+
+<br/><br/>
+
+*“First, solve the problem. Then, write the code.”* — John Johnson
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&color=0:090611,50:1B0A25,100:090611&text=DESIGN%20%E2%80%A2%20BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&fontSize=21&fontColor=FF71DD&animation=twinkling&stroke=FF4FD8&strokeWidth=1" alt="Design, build, learn, repeat" />
 
 </div>
