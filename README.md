@@ -1,5 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=360&text=HABIBA%20NADEEM&fontSize=72&fontAlignY=38&desc=FULL-STACK%20MERN%20DEVELOPER%20%20%E2%80%A2%20%20CREATIVE%20ENGINEER&descSize=18&descAlignY=58&fontColor=F8FAFC&descColor=A78BFA&animation=fadeIn&stroke=C084FC&strokeWidth=1.5" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,45:312e81,100:020617&text=HABIBA%20NADEEM&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20MERN%20DEVELOPER%20%E2%80%A2%20CREATIVE%20ENGINEER&descSize=19&descColor=E9D5FF&descAlignY=62&animation=twinkling&stroke=C084FC&strokeWidth=1.5"
+    alt="Habiba Nadeem — Full Stack MERN Developer"
+  />
+</div>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2200&pause=650&color=A78BFA&center=true&vCenter=true&width=900&lines=ARCHITECTING+DIGITAL+EXPERIENCES;CREATING+WITH+THE+MERN+STACK;TURNING+IDEAS+INTO+REAL+PRODUCTS;LEARN.+BUILD.+SHIP.+EVOLVE.)](https://git.io/typing-svg)
