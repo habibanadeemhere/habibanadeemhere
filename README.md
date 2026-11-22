@@ -1,8 +1,6 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=360&text=HABIBA%20NADEEM&fontSize=72&fontAlignY=38&desc=FULL-STACK%20MERN%20DEVELOPER%20%20%E2%80%A2%20%20CREATIVE%20ENGINEER&descSize=18&descAlignY=58&fontColor=F8FAFC&descColor=A78BFA&animation=fadeIn&stroke=C084FC&strokeWidth=1.5" />
 
-<!-- ═══════════════════════ HERO ═══════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=330&text=HABIBA%20NADEEM&fontSize=68&fontAlignY=41&desc=FULL%20STACK%20DEVELOPER%20//%20MERN%20ENGINEER&descAlignY=62&descSize=18&animation=twinkling&color=0:020617,28:111827,55:1e1b4b,78:581c87,100:020617&fontColor=f8fafc&stroke=a855f7&strokeWidth=1.4" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2200&pause=650&color=A78BFA&center=true&vCenter=true&width=900&lines=ARCHITECTING+DIGITAL+EXPERIENCES;CREATING+WITH+THE+MERN+STACK;TURNING+IDEAS+INTO+REAL+PRODUCTS;LEARN.+BUILD.+SHIP.+EVOLVE.)](https://git.io/typing-svg)
 
