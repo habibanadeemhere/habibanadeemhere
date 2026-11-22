@@ -1,230 +1,157 @@
 <!--
-  HABIBA NADEEM — GitHub profile README
-  Quick edits: replace the placeholder project repository names below if needed.
-  Profile username used by the stats and activity widgets: habibanadeemhere.
+  HABIBA NADEEM — Profile README
+  Crafted for a dark, cinematic GitHub profile.
 -->
 
 <div align="center">
 
-<!-- 1. ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,45:241044,100:0d1117&text=HABIBA%20NADEEM&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20MERN%20DEVELOPER%20%E2%80%A2%20KARACHI%2C%20PAKISTAN&descSize=17&descAlignY=59&animation=twinkling&stroke=a855f7&strokeWidth=1" alt="Animated Habiba Nadeem header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:09090f,35:181136,70:351b68,100:09090f&text=HABIBA%20NADEEM&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20MERN%20DEVELOPER%20%E2%80%A2%20KARACHI%2C%20PAKISTAN&descSize=16&descAlignY=58&animation=twinkling&stroke=a855f7&strokeWidth=1.5" alt="Habiba Nadeem profile banner" />
 
-<!-- 2. TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Full+Stack+MERN+Developer;Building+things+that+matter;Turning+ideas+into+products;Learning.+Building.+Shipping." alt="Typing animation: Full Stack MERN Developer, Building things that matter, Turning ideas into products, Learning. Building. Shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=C084FC&center=true&vCenter=true&width=760&lines=Building+the+web%2C+one+idea+at+a+time.;Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Student+%40+SMIT+%E2%80%A2+Batch+16;Learning.+Building.+Shipping." alt="Animated developer introduction" />
 </a>
 
 <br/><br/>
 
-<!-- 3. PROFILE VIEWS + SOCIAL LINKS -->
 <img src="https://komarev.com/ghpvc/?username=habibanadeemhere&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="Profile views" />
-<a href="https://github.com/habibanadeemhere"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/habiba-nadeem-4b63412b9"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ec4899" alt="LinkedIn" /></a>
-<a href="mailto:habibanadeem075@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" /></a>
+<a href="https://github.com/habibanadeemhere">
+  <img src="https://img.shields.io/badge/GITHUB-09090f?style=for-the-badge&logo=github&logoColor=c084fc" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/habiba-nadeem-4b63412b9">
+  <img src="https://img.shields.io/badge/LINKEDIN-09090f?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+</a>
+<a href="mailto:habibanadeem075@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-09090f?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="Email" />
+</a>
 
 </div>
 
----
+<br/>
 
-## ✦ About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:a855f7,100:22d3ee" alt="Purple cyan divider" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> About Me
 
 <table>
 <tr>
-<td width="58%" valign="middle">
-
-### Hey, I'm Habiba 👋
-
-I'm a **Full Stack MERN Developer** and a student at **SMIT (Saylani Mass IT Training), Batch 16**, based in **Karachi, Pakistan 🇵🇰**.
-
-I enjoy transforming ideas into polished, practical web experiences—from responsive interfaces to backend APIs and database-powered apps. I’m always learning, building, and looking for the next interesting problem to solve.
-
-**My developer loop:** `Imagine → Build → Improve → Ship`
-
+<td width="46%" align="center">
+<img width="92%" src="habiba_banner%20(1).png" alt="Habiba banner" />
 </td>
-<td width="42%" valign="middle">
+<td width="54%" valign="middle">
 
-```text
-┌──────────────────────────────────┐
-│  $ whoami                        │
-│  habiba-nadeem                   │
-│                                  │
-│  $ role                          │
-│  Full Stack MERN Developer       │
-│                                  │
-│  $ studying                      │
-│  SMIT · Batch 16                 │
-│                                  │
-│  $ location                      │
-│  Karachi, Pakistan 🇵🇰            │
-│                                  │
-│  $ status                        │
-│  Learning. Building. Shipping.   │
-└──────────────────────────────────┘
+```javascript
+const habiba = {
+  name: "Habiba Nadeem",
+  role: "Full Stack MERN Developer",
+  location: "Karachi, Pakistan 🇵🇰",
+  education: "SMIT — Batch 16",
+  mindset: "Learn. Build. Improve. Ship.",
+  currentFocus: ["MERN Stack", "React", "APIs"],
+  contact: "habibanadeem075@gmail.com"
+};
+
+console.log("Welcome to my universe! ✨");
 ```
 
 </td>
 </tr>
 </table>
 
----
+I turn ideas into polished, practical web experiences. My work spans responsive interfaces, reusable components, REST APIs, authentication, databases, dashboards, and complete full-stack applications.
 
-## ⚡ Tech Stack
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning%20Bolt.png" width="29" /> Technology Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,tailwind,git,github,postman,vercel,python,html,css,figma&theme=dark" alt="MongoDB, Express, React, Node.js, JavaScript, TypeScript, Tailwind CSS, Git, GitHub, Postman, Vercel, Python, HTML, CSS and Figma" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,tailwind,html,css,python,git,github,postman,vscode,figma,supabase&perline=8&theme=dark" alt="Technology stack" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BUILDING%20WITH-MERN-a855f7?style=for-the-badge&labelColor=0d1117" alt="Building with MERN" />
-<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Always learning" />
-<img src="https://img.shields.io/badge/CREATING%20FOR%20THE%20WEB-ec4899?style=for-the-badge&labelColor=0d1117" alt="Creating for the web" />
+<img src="https://img.shields.io/badge/MERN%20STACK-09090f?style=for-the-badge&logo=mongodb&logoColor=a855f7" alt="MERN stack" />
+<img src="https://img.shields.io/badge/REST%20APIs-09090f?style=for-the-badge&logo=fastapi&logoColor=22d3ee" alt="REST APIs" />
+<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-09090f?style=for-the-badge&logo=googlescholar&logoColor=f472b6" alt="Always learning" />
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="29" /> Featured Work
 
 <div align="center">
 
-<a href="https://github.com/habibanadeemhere">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=22d3ee&rank_icon=github" alt="Habiba's GitHub statistics" />
+<a href="https://github.com/habibanadeemhere/supportflow">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=supportflow&hide_border=true&bg_color=09090f&title_color=c084fc&text_color=c9d1d9&icon_color=22d3ee" alt="SupportFlow" />
 </a>
-<a href="https://github.com/habibanadeemhere">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibanadeemhere&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=c9d1d9" alt="Most-used languages in Habiba's public repositories" />
+<a href="https://github.com/habibanadeemhere/SMIT-Connect-Portal">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=SMIT-Connect-Portal&hide_border=true&bg_color=09090f&title_color=38bdf8&text_color=c9d1d9&icon_color=f472b6" alt="SMIT Connect Portal" />
 </a>
-<a href="https://github.com/habibanadeemhere">
-  <img height="175" src="https://streak-stats.demolab.com?user=habibanadeemhere&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Habiba's GitHub contribution streak" />
+<a href="https://github.com/habibanadeemhere/3D-Portfolio">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=3D-Portfolio&hide_border=true&bg_color=09090f&title_color=f472b6&text_color=c9d1d9&icon_color=c084fc" alt="3D Portfolio" />
 </a>
-
-<br/><br/>
-
-<sub>Language stats reflect code in public repositories; they are not a measure of skill or time spent.</sub>
-
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibanadeemhere&bg_color=0d1117&color=c9d1d9&line=a855f7&point=22d3ee&area=true&area_color=ec4899&hide_border=true&custom_title=HABIBA%27S%20CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph for habibanadeemhere" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- The workflow below publishes this SVG to the output branch at the repository root. -->
-<img width="96%" src="https://raw.githubusercontent.com/habibanadeemhere/habibanadeemhere/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake for habibanadeemhere" />
-
-</div>
-
-### Set up the snake animation
-
-Add this workflow file to your profile repository at **`.github/workflows/snake.yml`**. It generates the SVG and publishes it to the **`output` branch**, at the exact image path **`/github-contribution-grid-snake-dark.svg`**.
-
-<details>
-<summary><strong>Workflow file: .github/workflows/snake.yml</strong></summary>
-
-```yaml
-name: Generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: habibanadeemhere
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=a855f7&color_dots=0d1117,161b22,30363d,22d3ee,ec4899
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=a855f7
-
-      - name: Publish SVGs to the output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
-```
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<!--
-  Replace each placeholder repository name in the pin-card URL with the actual repo name.
-  Keep the username habibanadeemhere in each URL.
--->
-
-<div align="center">
-
-<a href="https://github.com/habibanadeemhere/MaintainIQ">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=MaintainIQ&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=22d3ee" alt="MaintainIQ repository card" />
-</a>
-<a href="https://github.com/habibanadeemhere/spotify-music-trends-eda">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=spotify-music-trends-eda&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=ec4899" alt="Spotify Music Trends EDA repository card" />
-</a>
-<a href="https://github.com/habibanadeemhere/mern-social-platform">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=mern-social-platform&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=c9d1d9&icon_color=a855f7" alt="MERN social media platform repository card" />
+<a href="https://github.com/habibanadeemhere/Sales-Data-Analysis">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=habibanadeemhere&repo=Sales-Data-Analysis&hide_border=true&bg_color=09090f&title_color=22d3ee&text_color=c9d1d9&icon_color=c084fc" alt="Sales Data Analysis" />
 </a>
 
 </div>
 
-### What I'm building
-
-| Project | What it does |
+| Project | Focus |
 |:--|:--|
-| **MaintainIQ** | An AI-powered QR maintenance and asset-history platform. |
-| **Spotify Music Trends** | Exploratory data analysis with a Streamlit dashboard. |
-| **MERN Social Platform** | A social media platform built with the MERN stack. |
+| **SupportFlow** | Customer, agent, and admin support workflow platform |
+| **SMIT Connect Portal** | Student and campus portal experience |
+| **3D Portfolio** | Interactive JavaScript and 3D portfolio website |
+| **Sales Data Analysis** | Data exploration and visual insight in Python |
 
----
+<br/>
 
-## 🌱 Currently
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub Universe
 
 <div align="center">
 
-| **Learning** | **Working on** | **Ask me about** |
-|:--:|:--:|:--:|
-| TypeScript & better React patterns | Full-stack MERN projects | React, Node.js & MongoDB |
-| APIs & deployment | Turning ideas into products | Responsive web experiences |
-| Building consistently | Learning by shipping | The MERN stack |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=habibanadeemhere&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=09090f&title_color=c084fc&text_color=c9d1d9&icon_color=22d3ee&ring_color=f472b6" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibanadeemhere&layout=compact&langs_count=8&hide_border=true&bg_color=09090f&title_color=f472b6&text_color=c9d1d9" alt="Top languages" />
+
+<br/><br/>
+
+<img width="74%" src="https://streak-stats.demolab.com?user=habibanadeemhere&hide_border=true&background=09090F&ring=C084FC&fire=F472B6&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=6B7280" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibanadeemhere&bg_color=09090f&color=c9d1d9&line=c084fc&point=22d3ee&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
----
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="29" /> Now
+
+| Learning | Building | Exploring |
+|:--:|:--:|:--:|
+| TypeScript & React patterns | Full-stack MERN projects | Modern UI/UX |
+| APIs & authentication | Scalable applications | Python & data analysis |
+| Deployment & DevOps basics | Real-world solutions | Better code every day |
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="30" /> Let’s Connect
 
 <div align="center">
 
+<a href="https://linkedin.com/in/habiba-nadeem-4b63412b9">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:habibanadeem075@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 <a href="https://github.com/habibanadeemhere">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0d1117?style=for-the-badge&labelColor=0d1117&color=a855f7" alt="Thanks for visiting" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0d1117,50:241044,100:0d1117&animation=twinkling&stroke=22d3ee&strokeWidth=1" alt="Animated dark neon footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:09090f,35:181136,70:351b68,100:09090f&animation=twinkling&stroke=c084fc&strokeWidth=1" alt="Animated footer" />
 
-**Keep learning. Keep building. Keep shipping.** 💜
+**`<>` Keep learning. Keep building. Keep shipping. `</>`**
 
 </div>
